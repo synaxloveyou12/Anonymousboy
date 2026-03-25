@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Configuration
-BOT_TOKEN = "8211174189:AAHPSlr9tjlxYARlaTkz78EqIOpZILi2cgc"
+BOT_TOKEN = "8211174189:AAEjrrd277FQh9hiVaCWWn6dDIx4KoSI5ZQ"
 ADMIN_ID = 6068463116
 BOT_USERNAME = "ReferEarnSynaxBot"  # अपना बॉट यूजरनेम डालें (बिना @ के)
 
